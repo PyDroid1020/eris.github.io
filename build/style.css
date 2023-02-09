@@ -23,7 +23,7 @@
 .MySelf {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(180deg , #ffffff , #78baf0);
+    background: black;
     background-blend-mode: screen;
     display: flex;
     align-items: center;
